@@ -864,7 +864,7 @@ input[type=text], select {
         position: relative;
         height: auto;
         width: 100%;
-        max-width: 28px;
+        max-width: 32px;
         margin-right: auto;
         margin-left: auto;
         max-height: auto;
