@@ -856,7 +856,7 @@ input[type=text], select {
     #socialmedia-div {
         position: relative;
         display: flex;
-        width: 20vw;
+        width: 11vw;
         top: 8vh;
         left: -1vw;
     }
