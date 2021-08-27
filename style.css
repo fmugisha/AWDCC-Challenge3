@@ -828,7 +828,7 @@ input[type=text], select {
     }
     #phone-div {
         position: relative;
-        top: 2vh;
+        top: 0;
         left: 8vw;
         font-family: 'Open Sans', sans-serif;
         color: #fff;
@@ -838,11 +838,11 @@ input[type=text], select {
         position: relative;
         left: 0;
         top: 0;
-        padding: 1vmax;
+        padding: 0;
     }
     #email-div {
         position: relative;
-        top: 0;
+        top: -5vh;
         left: 8vw;
         font-family: 'Open Sans', sans-serif;
         color: #fff;
@@ -851,14 +851,14 @@ input[type=text], select {
         position: relative;
         left: 0;
         top: 0;
-        padding: 1vmax;
+        padding: 0;
     }
     #socialmedia-div {
         position: relative;
         display: flex;
         width: 100%;
-        top: 8vh;
-        left: -1vw;
+        top: -2vh;
+        left: -8vw;
     }
     #socialmedia-div img {
         position: relative;
@@ -870,7 +870,6 @@ input[type=text], select {
         max-height: auto;
         display: block;
         cursor: pointer;
-        padding-right: 2vw;
     }
     #subscribe-div {
         position: relative;
